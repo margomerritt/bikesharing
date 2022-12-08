@@ -7,7 +7,7 @@ Analyzes NYC Citibike data to help determine if a bike-sharing program in Des Mo
 * Show the number of bike trips for each type of user and gender for each day of the week. 
 
 ### Resources
-The data used in this project was downloaded from the Citi Bike System Data page (https://ride.citibikenyc.com/system-data). This project used data the data from August 2019. The Citi Bike Trip Histories data includes:
+The data used in this project was downloaded from the Citi Bike System Data page (https://ride.citibikenyc.com/system-data). This project used data from August 2019. The Citi Bike Trip Histories data includes:
 * Trip Duration (seconds)
 * Start Time and Date
 * Stop Time and Date
