@@ -24,6 +24,7 @@ The data used in this project was downloaded from the Citi Bike System Data page
 
 Checkout Time for Users 
 
-[checkout time by users](https://user-images.githubusercontent.com/111299372/206586038-9066b0ea-1508-4b71-b091-e02ebcf08821.png)
+![checkout time by users](https://user-images.githubusercontent.com/111299372/206586094-4fc6c594-3c64-4370-ab6a-ee4bfdd73088.png)
+
 
 ## Summary
