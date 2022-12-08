@@ -22,7 +22,7 @@ The data used in this project was downloaded from the Citi Bike System Data page
 
 ## Results
 
-Checkout Time for Users 
+### Checkout Time for Users - line graph
 
 ![checkout time by users](https://user-images.githubusercontent.com/111299372/206586094-4fc6c594-3c64-4370-ab6a-ee4bfdd73088.png)
 
