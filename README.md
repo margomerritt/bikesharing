@@ -26,5 +26,6 @@ The data used in this project was downloaded from the Citi Bike System Data page
 
 ![checkout time by users](https://user-images.githubusercontent.com/111299372/206586094-4fc6c594-3c64-4370-ab6a-ee4bfdd73088.png)
 
+In the Checkout Time for Users line graph we plot the number of bikes on the y-axis and the minutes elapsed per hour on the x-axis. In August 2019 there were 35,135 rides that had a checkout time of 1 minute, which is the shortest checkout time in this dataset. At minute 5 on the x-axis the graph peaks with 146,752 rides that had a checkout time of 5 minutes. After minute 5 the number of users decreases significantly as the checkout time increases. By minute 25 there are only 33,854 rides lasting for 25 minutes.
 
 ## Summary
