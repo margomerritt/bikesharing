@@ -6,6 +6,18 @@ Analyzes NYC Citibike data to help determine if a bike-sharing program in Des Mo
 * Show the number of bike trips for each type of user and gender for each day of the week. 
 
 ### Resources
+The data used in this project was downloaded from the Citi Bike System Data page (https://ride.citibikenyc.com/system-data). This project used data the data from August 2019. The Citi Bike Trip Histories data includes:
+* Trip Duration (seconds)
+* Start Time and Date
+* Stop Time and Date
+* Start Station Name
+* End Station Name
+* Station ID
+* Station Lat/Long
+* Bike ID
+* User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+* Gender (Zero = unkown; 1 = male; 2 = female)
+* Year of Birth
 
 ## Results
 
