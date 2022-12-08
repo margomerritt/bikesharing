@@ -1,5 +1,6 @@
 # Bikesharing Analysis
 ## Overview of the analysis
+### Purpose
 Analyzes NYC Citibike data to help determine if a bike-sharing program in Des Moines is a viable business proposal. Project produced a set of visualizations that:
 * Show the length of time that bikes are checked out for all riders and genders.
 * Show the number of bike trips for all riders and genders for each hour of each day of the week.
@@ -16,7 +17,7 @@ The data used in this project was downloaded from the Citi Bike System Data page
 * Station Lat/Long
 * Bike ID
 * User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-* Gender (Zero = unkown; 1 = male; 2 = female)
+* Gender (Zero = unknown; 1 = male; 2 = female)
 * Year of Birth
 
 ## Results
