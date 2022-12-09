@@ -62,4 +62,5 @@ This heatmap further drills down the data by displaying the usertype per gender 
 
 ![gender breakdown pie chart](https://user-images.githubusercontent.com/111299372/206595000-fc22d283-484e-44d5-8776-8c454063ecd6.png)
 
+This piechart helps us visualize the breakdown of the genders of the CitiBike riders. We can see that the CitiBike riders are clearly male dominated. 
 ## Summary
