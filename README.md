@@ -20,6 +20,8 @@ The data used in this project was downloaded from the Citi Bike System Data page
 * Gender (Zero = unknown; 1 = male; 2 = female)
 * Year of Birth
 
+The raw dataset was imported into Jupyter notebooks for inspection and cleaning. The tripduration column in the dataset was converted from an integer to a datetime datatype to get the time in hours, minutes, seconds using Python and Pandas functions.
+
 ## Results
 
 ### Checkout Time for Users - line graph
