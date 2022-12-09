@@ -22,6 +22,10 @@ The data used in this project was downloaded from the Citi Bike System Data page
 
 The raw dataset was imported into Jupyter notebooks for inspection and cleaning. The tripduration column in the dataset was converted from an integer to a datetime datatype to get the time in hours, minutes, seconds using Python and Pandas functions. The DataFrame was then exported as a new csv file without the index. This new csv file was called trip_duration.csv.
 
+## Link to Tableau Dashboard
+
+https://public.tableau.com/app/profile/margo.merritt/viz/BikesharingVisualizationandAnalysis/NYCCitibikeAnalysis?publish=yes
+
 ## Results
 
 ### Checkout Time for Users - line graph
