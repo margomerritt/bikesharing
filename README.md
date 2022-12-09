@@ -44,7 +44,7 @@ This piechart helps us visualize the breakdown of the genders of the CitiBike ri
 
 ![checkout time by gender](https://user-images.githubusercontent.com/111299372/206587990-b8b83e2c-de0e-4a46-8755-1b39921d45b5.png)
 
-The Checkout Time by Gender graph the x-axis represents the minutes elapsed per hour and the y-axis represents the number of bikes, similar to 
+In the Checkout Time by Gender graph the x-axis represents the minutes elapsed per hour and the y-axis represents the number of bikes, similar to 
 the Checkout Time by User graph. This graph breaks the users down into three categories based on gender. The three gender categories are male, female, and unknown. For the male category the graph peaks at minute 5 with 108,087 rides. The female category has 34,151 rides at its peak at minute 6. The unkown gender category has 7,389 at its peak at minute 11. 
 
 ### Trips by Weekday for Each Hour - heatmap
@@ -57,16 +57,13 @@ The Trips by Weekday for Each Hour displays the weekday stoptime on the columns 
 
 ![trips by gender (weekday per hour)](https://user-images.githubusercontent.com/111299372/206594888-435fccaf-c226-4733-a5ad-768b25cd88c3.png)
 
-In this heatmap the rows display the hour of the start time. The columns are broken down into the three gender categories by weekday. This visualization shows us at a glance which times are peak times for bike rentals and by which gender. The male category has high usage rates during morning and evening weekdays. This could indicated that men are utilizing bike rentals during their daily commutes. The female category has a peak in usage during weekday commute times as well, but not near as much bike usage as men do. This unequal usage between men and female riders could indicate that women do not feel comfortable riding a bike by themselves during their daily commute. Women could be opting for a transportation option they feel is safer, such as a car ride sharing service for their daily commute. 
-
-
+In this heatmap the rows display the hour of the start time. The columns are broken down into the three gender categories by weekday. This visualization shows us at a glance which times are peak times for bike rentals and by which gender. The male category has high usage rates during morning and evening weekdays. This could indicate that men are utilizing bike rentals during their daily commutes. The female category has a peak in usage during weekday commute times as well, but not near as much bike usage as men do. This unequal usage between men and female riders could indicate that women do not feel comfortable riding a bike by themselves during their daily commute. Women could be opting for a transportation option they feel is safer, such as a car ride sharing service, for their daily commute. 
 
 ### User Trips by Gender by Weekday - heatmap
 
 ![user trips by gender by weekday](https://user-images.githubusercontent.com/111299372/206594966-021ed2b9-ebac-4240-9882-27b4f623aafd.png)
 
 This heatmap further drills down the data by displaying the usertype per gender type. There are two usertypes: customer and subscribers. Customers refer to short-term customers with either a 24-hour pass or a 3-day pass. Subscribers are riders who have an annual subscription to the Citi Bike Service. From this visualization we see that the highest usage rate comes from male subscribers. Within the male subscriber sub-category we see that their highest usage rates are during the weekdays, with the weekends having lower usage rates. This could indicate that male subscribers are using their citibike subscription as their primary form of transportation for their weekday commutes, but sometimes utilize the service on the weekdays as well for other reasons. 
-
 
 ## Summary
 
