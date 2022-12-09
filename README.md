@@ -32,5 +32,13 @@ In the Checkout Time for Users line graph we plot the number of bikes on the y-a
 
 ![checkout time by gender](https://user-images.githubusercontent.com/111299372/206587990-b8b83e2c-de0e-4a46-8755-1b39921d45b5.png)
 
+### Trips by Weekday for Each Hour - heatmap
+
+### Trips by Gender (Weekday per Hour) - heatmap
+
+### User Trips by Gendery by Weekday - heatmap
+
+### Gender Breakdown - pie chart
+
 
 ## Summary
