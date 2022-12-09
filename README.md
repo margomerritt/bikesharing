@@ -30,6 +30,12 @@ The raw dataset was imported into Jupyter notebooks for inspection and cleaning.
 
 In the Checkout Time for Users line graph we plot the minutes elapsed per hour on the x-axis and the number of bikes on the y-axis. In August 2019 there were 35,135 rides that had a checkout time of 1 minute, which is the shortest checkout time in this dataset. At minute 5 on the x-axis the graph peaks with 146,752 rides that had a checkout time of 5 minutes. After minute 5 the number of users decreases significantly as the checkout time increases. By minute 25 there are only 33,854 rides lasting for 25 minutes.
 
+### Gender Breakdown - pie chart
+
+![gender breakdown pie chart](https://user-images.githubusercontent.com/111299372/206595000-fc22d283-484e-44d5-8776-8c454063ecd6.png)
+
+This piechart helps us visualize the breakdown of the genders of the CitiBike riders. We can see that the CitiBike riders are clearly male dominated. 
+
 ### Checkout Time by Gender - multiple line graph
 
 ![checkout time by gender](https://user-images.githubusercontent.com/111299372/206587990-b8b83e2c-de0e-4a46-8755-1b39921d45b5.png)
@@ -58,9 +64,5 @@ In this heatmap the rows display the hour of the start time. The columns are bro
 This heatmap further drills down the data by displaying the usertype per gender type. There are two usertypes: customer and subscribers. Customers refer to short-term customers with either a 24-hour pass or a 3-day pass. Subscribers are riders who have an annual subscription to the Citi Bike Service. From this visualization we see that the highest usage rate comes from male subscribers. Within the male subscriber sub-category we see that their highest usage rates are during the weekdays, with the weekends having lower usage rates. This could indicate that male subscribers are using their citibike subscription as their primary form of transportation for their weekday commutes, but sometimes utilize the service on the weekdays as well for other reasons. 
 
 
-### Gender Breakdown - pie chart
 
-![gender breakdown pie chart](https://user-images.githubusercontent.com/111299372/206595000-fc22d283-484e-44d5-8776-8c454063ecd6.png)
-
-This piechart helps us visualize the breakdown of the genders of the CitiBike riders. We can see that the CitiBike riders are clearly male dominated. 
 ## Summary
