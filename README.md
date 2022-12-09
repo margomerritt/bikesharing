@@ -41,10 +41,14 @@ the Checkout Time by User graph. This graph breaks the users down into three cat
 
 ![trips by weekday for each hour](https://user-images.githubusercontent.com/111299372/206594874-03e1e796-deb8-4418-98a8-756f56fd3e94.png)
 
+The Trips by Weekday for Each Hour displays the weekday stoptime on the columns and the hour stoptime on the rows. A lighter orange color represents the least popular start times. The darkest orange colors represent the most popular start times. From this heatmap we see that there is a peak in activity in the early evening hours starting at 5:00 pm on Monday, Tuesday, Thursday, and Friday. 
 
 ### Trips by Gender (Weekday per Hour) - heatmap
 
 ![trips by gender (weekday per hour)](https://user-images.githubusercontent.com/111299372/206594888-435fccaf-c226-4733-a5ad-768b25cd88c3.png)
+
+In this heatmap the rows display the hour of the start time. The columns are broken down into the three gender categories by weekday. This visualization shows us at a glance which times are peak times for bike rentals and by which gender. The male category has high usage rates during morning and evening weekdays. This could indicated that men are utilizing bike rentals during their daily commutes. The female category has a peak in usage during weekday commute times as well, but not near as much bike usage as men do. This unequal usage between men and female riders could indicate that women do not feel comfortable riding a bike by themselves during their daily commute. Women could be opting for a transportation option they feel is safer, such as a car ride sharing service for their daily commute. 
+
 
 
 ### User Trips by Gender by Weekday - heatmap
