@@ -64,5 +64,6 @@ In this heatmap the rows display the hour of the start time. The columns are bro
 This heatmap further drills down the data by displaying the usertype per gender type. There are two usertypes: customer and subscribers. Customers refer to short-term customers with either a 24-hour pass or a 3-day pass. Subscribers are riders who have an annual subscription to the Citi Bike Service. From this visualization we see that the highest usage rate comes from male subscribers. Within the male subscriber sub-category we see that their highest usage rates are during the weekdays, with the weekends having lower usage rates. This could indicate that male subscribers are using their citibike subscription as their primary form of transportation for their weekday commutes, but sometimes utilize the service on the weekdays as well for other reasons. 
 
 
-
 ## Summary
+
+These 7 visualizations helped us see the current demographics of CitiBike users in NYC. From these different graphs we were able to determine that peak times for CitiBike usage is weekday mornings and evenings. This indicates that these riders are likely using these bikes for their daily commute to and from work. In "User Trips by Gender by Weekday" graph we were able to further determine that the largest sub-category of riders are male subscribers. 
