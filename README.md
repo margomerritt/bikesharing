@@ -69,3 +69,12 @@ This heatmap further drills down the data by displaying the usertype per gender 
 These 7 visualizations helped us see the current demographics of CitiBike users in NYC. From these different graphs we were able to determine that peak times for CitiBike usage is weekday mornings and evenings. This indicates that these riders are likely using these bikes for their daily commute to and from work. In "User Trips by Gender by Weekday" graph we were able to further determine that the largest sub-category of riders are male subscribers. 
 
 There are more visualizations that can be made to help us draw more conclusions on our given dataset. The graph "Checkout Time for Users" displayed the length of the checkout time for all users: short-term customers and annual subscibers. Recreating this graph and filtering it for short-term customers or annual subscribers will give more insight into the two different usertypes. 
+
+### Checkout Times for Short-Term Customers 
+
+![checkout times short-term customers](https://user-images.githubusercontent.com/111299372/206786935-cadc29ff-9cf6-498d-9ad6-7425c2610c8c.png)
+
+### Checkout Times for Annual Subscribers
+
+![checkout times annual subscribers](https://user-images.githubusercontent.com/111299372/206786978-6fc8fd32-5886-4123-a433-823b8c7d23da.png)
+
