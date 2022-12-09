@@ -37,11 +37,21 @@ the Checkout Time by User graph. This graph breaks the users down into three cat
 
 ### Trips by Weekday for Each Hour - heatmap
 
+![trips by weekday for each hour](https://user-images.githubusercontent.com/111299372/206594874-03e1e796-deb8-4418-98a8-756f56fd3e94.png)
+
+
 ### Trips by Gender (Weekday per Hour) - heatmap
 
-### User Trips by Gendery by Weekday - heatmap
+![trips by gender (weekday per hour)](https://user-images.githubusercontent.com/111299372/206594888-435fccaf-c226-4733-a5ad-768b25cd88c3.png)
+
+
+### User Trips by Gender by Weekday - heatmap
+
+![user trips by gender by weekday](https://user-images.githubusercontent.com/111299372/206594966-021ed2b9-ebac-4240-9882-27b4f623aafd.png)
+
 
 ### Gender Breakdown - pie chart
 
+![gender breakdown pie chart](https://user-images.githubusercontent.com/111299372/206595000-fc22d283-484e-44d5-8776-8c454063ecd6.png)
 
 ## Summary
